@@ -26,8 +26,7 @@
 - **CSS Modules** - для изоляции стилей компонентов
 
 ### [Главная страница](https://quiz-game-kappa-blond.vercel.app/)
-| Main view | Loading |
+| Процесс игры | Результаты |
 |:---------------:|:--------------:|
-| <img width="300" alt="Desktop version" src="https://github.com/user-attachments/assets/249d0b1a-a708-41c4-b561-28f7a082760d" /> | <img width="200" alt="Tablet version" src="https://github.com/user-attachments/assets/77327186-2d61-4dd9-a4be-d010c350a750" /> |
-
+| <img width="300" alt="Desktop version" src="https://github.com/user-attachments/assets/1f409aad-b7a2-4ceb-9bf8-ad3d99a40abf" /> | <img width="300" alt="Tablet version" src="https://github.com/user-attachments/assets/249d0b1a-a708-41c4-b561-28f7a082760d" /> |
 
